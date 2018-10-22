@@ -74,4 +74,7 @@ should now be part of the workspace, meaning you can edit and run it. You may ha
 and Tomcat server to each project (consult the Eclipse documentation and "Using Eclipse" in Chapter 2 for more
 information on how to do this).
 
-download web site:http://www.wrox.com/WileyCDA/WroxTitle/Professional-Java-for-Web-Applications.productCd-1118656466,descCd-DOWNLOAD.html
+'Code download'
+http://www.wrox.com/WileyCDA/WroxTitle/Professional-Java-for-Web-Applications.productCd-1118656466,descCd-DOWNLOAD.html
+'PDF' 
+http://aad.tpu.ru/1955/Java%20books/Wrox.Professional.Java.for.Web.Applications.Feb.2014.pdf
